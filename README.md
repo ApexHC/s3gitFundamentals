@@ -1,1 +1,1 @@
-Git Fundamentals for W3 Schools Tutorial Effort
+Git Fundamentals for W3 Schools Tutorial Effort.
